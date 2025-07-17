@@ -48,7 +48,6 @@ Atualmente sou Arquiteto de Infraestrutura, com foco em Cloud, IaC, virtualizaç
 
 ### 🔍 Curiosidades
 
-- 👥 Instrutor de soft skills e preparação de carreira para jovens;
-- 💡 Apaixonado por desafios técnicos e desenvolvimento de pessoas;
+- 👥 Instrutor voluntário de soft skills e carreira para jovens em formação técnica;
+- 💡 Apaixonado por resolver desafios reais com soluções escaláveis;
 - 🚀 Em constante evolução nas áreas de Cloud, DevOps e Segurança.
-
