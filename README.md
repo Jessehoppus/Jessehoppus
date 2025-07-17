@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Jesse Silva</h1>
 
-Atualmente sou Arquiteto de Infraestrutura na Atos, com foco em nuvem privada, IaC, virtualização, DevOps e automação gerando eficiência e escalabilidade em ambientes críticos.
+Atualmente sou Arquiteto de Infraestrutura, com foco em Cloud, IaC, virtualização, DevOps e automação gerando eficiência e escalabilidade em ambientes críticos.
 
 ---
 
