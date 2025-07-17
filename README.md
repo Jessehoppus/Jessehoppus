@@ -34,8 +34,8 @@ Atualmente sou Arquiteto de Infraestrutura na Atos, com foco em nuvem privada, I
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessevesenich&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessevesenich&layout=compact&theme=dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jessehoppus&show_icons=true&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessehoppus&layout=compact&theme=dark" width="300"/>
 </p>
 
 ---
