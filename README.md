@@ -6,7 +6,7 @@ Atualmente sou Arquiteto de Infraestrutura, com foco em Cloud, IaC, virtualizaç
 
 ### 🚀 Sobre mim
 
-- 🏢 Atuo como Cloud Architect: Crio scripts e playbooks para configurar, implantar e gerenciar servidores de forma eficiente e escalável;
+- 🏢 Arquiteto de infraestrutura com foco em automação, performance e governança de ambientes híbridos, implantar e gerenciar servidores de forma eficiente e escalável;
 - 🎓 Instrutor de soft skills e carreira: capacito alunos de cursos técnicos para entrevistas, postura profissional e empregabilidade;
 - 🤖 Analista em automação de infraestrutura, usando ferramentas como Terraform, Ansible e GitOps;
 - ☁️ Experiência em ambientes híbridos, com OpenStack, VMware e integração Kubernetes;
