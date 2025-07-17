@@ -43,9 +43,7 @@ Atualmente sou Arquiteto de Infraestrutura na Atos, com foco em nuvem privada, I
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jessesilvaa/)
-- ✉️ Email: seu@email.com
-- 🌐 Blog: [seublog.com](https://seublog.com) *(se tiver)*
-
+- ✉️ Email: jessevesenich@gmail.com
 ---
 
 ### 🔍 Curiosidades
